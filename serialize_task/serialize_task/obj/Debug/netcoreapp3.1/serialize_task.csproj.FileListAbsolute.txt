@@ -1,0 +1,16 @@
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\bin\Debug\netcoreapp3.1\serialize_task.exe
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\bin\Debug\netcoreapp3.1\serialize_task.deps.json
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\bin\Debug\netcoreapp3.1\serialize_task.runtimeconfig.json
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\bin\Debug\netcoreapp3.1\serialize_task.runtimeconfig.dev.json
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\bin\Debug\netcoreapp3.1\serialize_task.dll
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\bin\Debug\netcoreapp3.1\serialize_task.pdb
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\obj\Debug\netcoreapp3.1\serialize_task.csproj.AssemblyReference.cache
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\obj\Debug\netcoreapp3.1\serialize_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\obj\Debug\netcoreapp3.1\serialize_task.AssemblyInfoInputs.cache
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\obj\Debug\netcoreapp3.1\serialize_task.AssemblyInfo.cs
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\obj\Debug\netcoreapp3.1\serialize_task.csproj.CoreCompileInputs.cache
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\obj\Debug\netcoreapp3.1\serialize_task.csproj.CopyComplete
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\obj\Debug\netcoreapp3.1\serialize_task.dll
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\obj\Debug\netcoreapp3.1\serialize_task.pdb
+C:\Users\tu7cldm19\Desktop\task\serialize_task\serialize_task\obj\Debug\netcoreapp3.1\serialize_task.genruntimeconfig.cache

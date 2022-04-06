@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/yDXOrNodaPsaYi//sSAX9vkAbnjS1ZXjYFARFGBcf8MiJEJWZs4q807X1m290jc0lHe8H9lsmDjhUoXqd2Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tu7cldm19\\Desktop\\task\\serialize_task\\serialize_task\\serialize_task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tu7cldm19\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
